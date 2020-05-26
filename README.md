@@ -1,2 +1,2 @@
 # SQL
-Improving SQL Skills
+Sharpen SQL Skills
