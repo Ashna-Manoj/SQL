@@ -1,0 +1,16 @@
+
+1. Changing a column's data type: 
+
+SELECT CAST(order_total AS varchar) AS total_usd_string
+  FROM table_name;
+	
+	OR 
+	
+	SELECT (order_total :: varchar) as total_usd_string
+	FROM table_name;
+  
+  --------------------------------------------------
+  
+	
+  2. 
+	
